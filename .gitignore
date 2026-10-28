@@ -1,0 +1,13 @@
+/*
+!/.gitignore
+!/backup.sh
+!/README.md
+
+**/.yadisk_conf/
+**/yandex-disk/
+**/.sync/
+**/passwd
+**/config.cfg
+**/.env
+**/.env.*
+*.log
